@@ -1,0 +1,9 @@
+.Skill {
+    padding: 2px;
+    margin: 2px 4px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    list-style: none;
+    display: inline-block;
+}

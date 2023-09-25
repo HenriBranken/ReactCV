@@ -1,0 +1,35 @@
+.AsideInner {
+    padding: 2rem;
+    box-shadow: 0 0 20px 3px rgb(255, 0, 0);
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.Figure {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 0;
+    box-shadow: 0 0 10px 2px white;
+}
+
+.Center {
+    text-align: center;
+}
+
+.LinkColor {
+    color: white;
+}
+
+.icons {
+    text-align: center;
+}
+
+.icon {
+    color: white;
+    font-size: 2rem;
+}

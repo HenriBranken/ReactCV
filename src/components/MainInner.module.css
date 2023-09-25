@@ -1,0 +1,6 @@
+.MainInner {
+    padding: 0 1rem;
+    border: 1px solid white;
+    border-radius: 8px;
+    box-shadow: 0 0 20px 3px rgb(5, 116, 234);
+}

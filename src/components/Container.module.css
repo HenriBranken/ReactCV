@@ -1,0 +1,8 @@
+.container {
+    display: grid;  /* Make a Grid Layout to achieve the side-by-side positioning. */
+    column-gap: 30px;
+    grid-template-columns: 30% 1fr; /* We want two columns which is "aside" and "main" */
+    grid-template-areas: "aside main";
+    width: 1170px;
+    margin: 2rem auto;
+}
